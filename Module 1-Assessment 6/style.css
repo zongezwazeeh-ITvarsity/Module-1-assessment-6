@@ -1,0 +1,150 @@
+element.style {
+    
+}
+
+html {
+    display: block;
+    
+}
+
+element.style{
+    
+}
+
+head{
+  display:none;
+    
+}
+
+element.style{
+    
+}
+body {
+    display:block;
+    margin: 8px;
+}
+
+element.style{
+    
+}
+
+#menu {
+    width: 50%
+    height: 50px;
+    background-color: white;
+    padding-top: 60px;
+    
+}
+
+div {
+  display: block;
+}
+
+
+
+element.style {
+    
+}
+h1 {
+ display: block;
+ font-size: 3em;
+ margin-block-start: 0.67em;
+ margin-block-end: 0.67em;
+ margin-inline-start: 0px;
+ margin-inline-end: 0px;
+ font-weight: bold;
+    
+}
+
+element.style {
+    
+}
+
+p {
+  text-align: justify;
+  
+}
+
+p {
+  font-family: cursive
+}
+
+p {
+    
+display: block;
+margin-block-start: 1em;
+margin-block-end: 1em;
+margin-inline-end: 0px;
+    
+}
+
+element.style{
+    
+}
+
+div {
+ display: bock;
+    
+}
+
+
+/*=============CONTACT US=============*/
+
+{
+  box-sizing                     : border-box;
+
+}
+input[type=text], select, textarea {
+  width                         : 100%;
+  border                        : 1px solid #ccc;
+  margin-top                    : 0px;
+  margin-bottom                 : 0px;
+ 
+   
+}
+
+input[type=submit] {
+  background-color              : #00008B;
+  color                         : silver;
+  padding                       : 15px 10px;
+  border                        : none;
+  cursor                        : pointer;
+}
+
+input[type=submit]:hover {
+  background-color              : #FF0000;
+}.container {
+  border-radius                 : 2px;
+  background-color              : #f2f2f2;
+  padding-top                   : 25px;
+  color:darkorange;
+}
+
+
+.column {
+  float                        :left;
+  width                        : 50%;
+  margin-top                   : 6px;
+  padding                      : 20px;
+}
+
+
+.row:after {
+  content                      : no-open-quote;
+  display                      : table;
+  clear                        : both;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
